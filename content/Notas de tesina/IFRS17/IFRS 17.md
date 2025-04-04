@@ -182,7 +182,7 @@ Hay 3 metodologías comunmente aceptadas:
 
 ==Completar con:==
 - [[Maestría Ajuste al riesgo IFRS17.pdf]]
-- [[content/Notas de tesina/Metodologias/bin papers metodologicos utiles/RA IFRS 17_An adaptation of Solvency 2 one-year aggregation into super papaer de risk adjustment con formulas.pdf]]
+- [[RA IFRS 17_An adaptation of Solvency 2 one-year aggregation.pdf]]
 - [[content/Notas de tesina/Metodologias/bin papers metodologicos utiles/Risk adjustment RESUMEN CORTO.pdf]]
 
 #### Contractual Service Margin (MSC)
