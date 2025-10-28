@@ -7,6 +7,7 @@ tags:
 # Introducción
 La idea de la Niif17 es la trasparencia al valuar los seguros en los estados contables. Notoriamente el P&L. 
 
+
 >Definicion de contrato de seguro: 
 >Un contrato es un acuerdo entre dos o más partes que crea derechos y obligaciones exigibles. La exigibilidad de los derechos y obligaciones de un contrato es una cuestión del sistema legal.
 >Los contratos pueden ser escritos, orales o estar implícitos en las prácticas tradicionales del negocio de una entidad. Los términos contractuales incluyen todos los términos de un contrato, explícitos o implícitos, pero una entidad no considerará los términos que no tengan sustancia comercial (es decir no tengan efecto apreciable sobre la naturaleza económica del contrato).
